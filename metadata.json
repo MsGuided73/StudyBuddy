@@ -1,0 +1,5 @@
+{
+  "name": "Study Buddy",
+  "description": "A friendly, animated AI math tutor that helps you learn step-by-step.",
+  "requestFramePermissions": ["microphone"]
+}
